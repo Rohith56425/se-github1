@@ -1,0 +1,16 @@
+mkdir rohith1
+cd rohith1
+pwd
+mkdir librarymangement
+pwd
+notepad file1.txt
+git init
+git add file1.txt
+git config --global user.name "rohith5546"
+gitconfig --global user.name"rohithm1184.sse@saveetha.com"
+git commit -m "fff"
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/rohith5546/library-management.git
+git branch -m main
+git push -u origin main
